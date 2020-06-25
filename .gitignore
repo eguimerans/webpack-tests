@@ -1,0 +1,8 @@
+target/
+logs/
+.settings/
+node_modules/
+node/
+*.css
+bin/
+dist/
